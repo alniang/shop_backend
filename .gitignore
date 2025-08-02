@@ -1,0 +1,15 @@
+# je voudrais un gitignore pour ce projet
+# Node.js dependencies
+/node_modules
+# Logs
+/logs
+*.log
+# Environment variables
+.env
+# Build output
+/dist
+# TypeScript cache
+/tsconfig.tsbuildinfo
+# IDE specific files
+.vscode/
+.idea/
